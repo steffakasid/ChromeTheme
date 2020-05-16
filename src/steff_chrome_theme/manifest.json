@@ -1,0 +1,142 @@
+{
+    "name": "ThemeBeta.com",
+    "version": "1.0",
+    "description": "",
+    "manifest_version": 2,
+    "theme": {
+        "colors": {
+            "frame": [
+                35,
+                35,
+                35
+            ],
+            "frame_inactive": [
+                60,
+                60,
+                60
+            ],
+            "frame_incognito": [
+                35,
+                35,
+                35
+            ],
+            "frame_incognito_inactive": [
+                60,
+                60,
+                60
+            ],
+            "background_tab": [
+                40,
+                40,
+                40
+            ],
+            "background_tab_inactive": [
+                100,
+                100,
+                100
+            ],
+            "background_tab_incognito": [
+                40,
+                40,
+                40
+            ],
+            "background_tab_incognito_inactive": [
+                100,
+                100,
+                100
+            ],
+            "toolbar": [
+                60,
+                60,
+                60
+            ],
+            "tab_text": [
+                0,
+                253,
+                161
+            ],
+            "tab_background_text": [
+                182,
+                182,
+                182
+            ],
+            "tab_background_text_inactive": [
+                192,
+                192,
+                192
+            ],
+            "tab_background_text_incognito": [
+                182,
+                182,
+                182
+            ],
+            "tab_background_text_incognito_inactive": [
+                192,
+                192,
+                192
+            ],
+            "bookmark_text": [
+                255,
+                0,
+                255
+            ],
+            "ntp_background": [
+                64,
+                64,
+                64
+            ],
+            "ntp_text": [
+                197,
+                158,
+                0
+            ],
+            "ntp_link": [
+                255,
+                0,
+                0
+            ],
+            "ntp_header": [
+                255,
+                0,
+                0
+            ],
+            "button_background": [
+                70,
+                70,
+                70
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0.1,
+                0.5,
+                0.5
+            ],
+            "frame": [
+                0.1,
+                0.5,
+                0.5
+            ],
+            "frame_inactive": [
+                0.1,
+                0.5,
+                0.5
+            ],
+            "frame_incognito": [
+                0.1,
+                0.5,
+                0.5
+            ],
+            "frame_incognito_inactive": [
+                0.1,
+                0.5,
+                0.5
+            ],
+            "background_tab": [
+                0.1,
+                0.5,
+                0.5
+            ]
+        }
+    }
+}
